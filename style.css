@@ -1,0 +1,83 @@
+*{
+  
+  font-size: 28px;
+  font-family: 'rajdhni serif';
+  
+  
+  
+}
+body.imagem {
+  background-image: url("./img/cool-background\ \(2\).png");
+  text-align: justify;
+  color: rgb(19, 18, 23);
+  border-color: 10px #030a61;
+  
+}
+div.foto1 {
+  background-image: url(../Python-pro/img/cool-background.jpg) ;
+  display: block;
+  text-align: center;
+  width: 360px;
+  right: 200px;
+  margin-left:0;
+  margin: auto;
+  padding: 45px;
+  position:relative;
+  right: 30px;
+  
+  
+
+}
+
+h1{
+  color: blue
+}
+
+    .button {
+    background-color: blue;
+     color: aliceblue;
+    width:100px;
+    height: 50px;
+    transition: all 450ms
+
+}
+.button:hover{
+  border-radius: 50%;
+}
+.button2 {
+  background-color: rgb(87, 87, 164);
+  color: aliceblue;
+    width:100px;
+    height: 50px;
+    transition: all 450ms
+
+  
+}
+.button2:hover {
+ border-radius : 50%;
+}
+p{
+  color:blue
+  
+}
+img {
+  
+ text-align: center;
+ width: 350px;
+}
+h3{
+  color: blue;
+}
+.header1{
+  font-size: 3rem;
+}
+.header2{
+  font-size: 2rem;
+}
+
+body{
+  color:blue
+}
+table,tr,td {
+  border: 2px solid blue;
+}
